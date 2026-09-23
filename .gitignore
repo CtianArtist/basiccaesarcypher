@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+.env
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage.xml
+.coverage
+htmlcov/
+
+build/
+dist/
+*.egg-info/
+
+.DS_Store
+.idea/
+.vscode/
+
+# Uploaded/source artifacts are kept outside the package.
+attached_assets/
